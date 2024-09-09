@@ -37,11 +37,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    height: 100%;
     padding-top: 400px;
     padding-bottom: 10px;
-    height: 400px;
-    width: 100%;
     align-content: end;
     margin-bottom: 0px;
 }
